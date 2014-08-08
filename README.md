@@ -8,4 +8,7 @@ To use with your install of Learning Locker, grab and move to the app/lang folde
 Translation tool
 ================
 
-Here is the [Learning Locker project on Transifex](https://www.transifex.com/organization/learning-locker/dashboard) - it provides a handy interface to help track how many strings are needing translated for any language being worked on. 
+Here is the [Learning Locker project on Transifex](https://www.transifex.com/organization/learning-locker/dashboard) - it provides a handy interface to help track how many strings are needing translated for any language being worked on.
+
+The files on Transifex are automatically updated when we make changes to the core english files in Learning Locker. As they are translated, we merge
+them here.

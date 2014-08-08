@@ -10,5 +10,7 @@ Translation tool
 
 Here is the [Learning Locker project on Transifex](https://www.transifex.com/organization/learning-locker/dashboard) - it provides a handy interface to help track how many strings are needing translated for any language being worked on.
 
+_When using Transifex, make sure you download the file locally before trnaslating - their online editor misses out most of the strings for some reason._
+
 The files on Transifex are automatically updated when we make changes to the core english files in Learning Locker. As they are translated, we merge
 them here.

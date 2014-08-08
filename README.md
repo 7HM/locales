@@ -5,4 +5,4 @@ To create a new language pack you can clone this repo and add new files into the
 
 To use with your install of Learning Locker, grab the langs you want and move to the app/lang folder.
 
-_We are currently reviewing tools translations, more info soon._
+_We are currently reviewing tools to help with translations, more info soon._

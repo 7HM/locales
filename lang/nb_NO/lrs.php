@@ -7,21 +7,21 @@
 */
 
 return array(
-    'add'       => 'Add LRS',
-    'home'		=> 'LRS home',
-    'create'    => 'Create an LRS',
-    'delete_confirm' => 'Are you sure you want to delete this LRS? THERE IS NO UNDO AND YOU WILL LOSE ALL STATEMENTS.',
-    'edit'      => 'Edit an LRS',
-    'new'		=> 'Create new LRS',
-    'verify'    => 'You need to <a href=":verify_link">verify your email</a> before you can create an LRS.',
-    'list'      => 'LRS List',
-    'none'      => 'No LRS\'s available.',
+    'add'       => 'Legg til LRS',
+    'home'		=> 'LRS hjem',
+    'create'    => 'Opprett et LRS',
+    'delete_confirm' => 'Er du sikker på at du vil slette valgt LRS? HENDELSEN KAN IKKE ANGRES PÅ.',
+    'edit'      => 'Endre på et LRS',
+    'new'		=> 'Lag nytt LRS',
+    'verify'    => 'Du må <a href=":verify_link">verifisere din mail</a> før du kan lage et LRS.',
+    'list'      => 'LRS liste',
+    'none'      => 'Ingen LRS tilgjengelig.',
     'reporting' => 'Reporting',
-    'deleted'   => 'The LRS was deleted',
-    'updated'   => 'The LRS was updated',
-    'create_problem' => 'There was a problem creating that LRS.',
-    'created'   => 'The LRS was created.',
-    'active'    => 'Active',
+    'deleted'   => 'Valgt LRS ble slettet',
+    'updated'   => 'Valgt LRS ble oppdatert',
+    'create_problem' => 'Det oppsto et problem ved opprettelse av LRS.',
+    'created'   => 'Nytt LRS er opprettet.',
+    'active'    => 'Aktiv',
 
     'sidebar'	=> array(
     	'dash' 	    => 'Kontrollpanel',
@@ -34,10 +34,10 @@ return array(
     ),
 
     'endpoint' 	=> array(
-    	'endpoint'       => 'xAPI uttrykk',
+    	'endpoint'       => 'xAPI adresse',
     	'basic_http'     => 'Basic HTTP Authentication',
-    	'submit'         => 'Godta xAPI uttrykk',
-    	'instructions'   => 'For å kunne koble xAPI utrykk må du legge ved følgende adresse, bruker og passord.',
+    	'submit'         => 'xAPI tilkobling',
+    	'instructions'   => 'For å kunne koble xAPI utrykk til LRS-et må du legge ved følgende adresse, bruker og passord i klienten.',
     	'new_key_secret' => 'Opprett ny nøkkel og hemmlighet'
     ),
 
@@ -47,7 +47,7 @@ return array(
     	'api'	   => 'LRS API'
     ),
 
-    'update_key'       => 'Your key has now been updated.',
-    'update_key_error' => 'There was an error updating your key and secret.',
-    'remove_user'      => 'That user has been removed from this LRS.'
+    'update_key'       => 'Din nøkkel har nå blitt oppdatert.',
+    'update_key_error' => 'Det oppsto en feil ved opprettelse av ny nøkkel og hemmlighet.',
+    'remove_user'      => 'Denne brukeren er slettet fra dette LRS.'
 );
